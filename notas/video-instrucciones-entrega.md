@@ -45,3 +45,7 @@ Resumen de lo que **se ve** en el vídeo (unos 9 minutos). El **audio no está t
 - Las fechas y los apartados son los de la cuenta de demostración, que parece del grupo de 1.º (por los módulos). **Hay que comprobarlo en la cuenta de Gustavo** (grupo CEAC2627DAM2, si es el suyo).
 - Estos apartados **no coinciden** con la numeración del manual (1 Introducción, 2 Necesidades 2.1–2.9, 3 Diseño 3.1–3.9), aunque tratan los mismos temas. Manda lo que pida la plataforma.
 - Falta saber lo que dice el profesor en el audio.
+
+## Actualización (29/10/2026)
+
+En la cuenta de Gustavo **no hay fechas límite configuradas** para su grupo. El límite sigue siendo la primera semana de diciembre (tenerlo listo el lunes 30/11).
