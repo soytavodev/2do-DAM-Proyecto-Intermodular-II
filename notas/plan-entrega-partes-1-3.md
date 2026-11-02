@@ -10,9 +10,9 @@ Borrador del 29/10/2026, pendiente de que Gustavo lo apruebe. Entrega supuesta: 
    - 2.2 Empresa tipo: una empresa de aprendizaje de idiomas en línea (contenidos y pedagogía, producto, desarrollo, diseño, datos, soporte, marketing, administración). Ejemplo real: Busuu o ABA English (con presencia en España).
    - 2.3 Necesidades: el idioma como requisito laboral (también en hostelería y limpieza), el precio de cursos y certificados, el estancamiento en las apps gratuitas, las explicaciones de gramática en español. Con datos (Eurostat/INE).
    - 2.4 Oportunidades: móvil y PWA, contenido abierto (Tatoeba, Wikimedia), voz del navegador, el hueco de un curso gratis, completo y sin anuncios para hispanohablantes.
-   - 2.5 Tipo de proyecto: aplicación web progresiva (PWA) multiplataforma + empaquetado Android. Por qué no nativa, por qué sin servidor propio.
+   - 2.5 Tipo de proyecto: PWA + app Android + API propia pequeña (cuentas con correo verificado, sincronización del progreso y estadísticas anónimas).
    - 2.6 Requisitos funcionales, no funcionales (accesibilidad, funcionar sin conexión, rendimiento en móviles baratos, privacidad) y condicionantes (tiempo, una sola persona, coste cero).
-   - 2.7 Obligaciones: actividad sin ánimo de lucro, licencias del software y del contenido (CC BY, CC BY-SA, atribuciones), RGPD (si hay cuentas), PRL del puesto de desarrollo, condiciones de uso de terceros (tiendas, Supabase).
+   - 2.7 Obligaciones: actividad sin ánimo de lucro, licencias del software y del contenido (CC BY, CC BY-SA, atribuciones), RGPD (cuentas con correo y nombre de usuario: política de privacidad, borrar cuenta), PRL del puesto de desarrollo, condiciones de uso de terceros (tiendas, Supabase).
    - 2.8 Ayudas: Kit Digital, subvenciones a proyectos de código abierto o educativos (por investigar; si no aplica, justificarlo).
    - 2.9 Guion de trabajo: análisis → diseño → entorno → contenido → desarrollo → pruebas → despliegue → evaluación con usuarios → documentación.
 3. **Diseño del proyecto**
