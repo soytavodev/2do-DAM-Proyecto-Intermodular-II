@@ -8,4 +8,4 @@ Cosas que salieron de los apartados al pasarlos a texto plano y que conviene res
 - 2.3 y 5.6: encuesta (`notas/encuesta-necesidades.md`). Si hay respuestas, agregar los resultados al 2.3 como encuesta exploratoria.
 - 2.4: buscar ejemplos concretos de entidades de Valencia (ayuntamiento, servicios de empleo, ONG) que formen a personas desempleadas o migrantes.
 - 2.5 y 2.6: confirmar la tecnología con la profesora de PMDM. Si pide web o iOS además de Android, ajustar los apartados.
-- Datos del proyecto (plataforma): actualizar la descripción, que todavía dice que el progreso se guarda solo en el dispositivo.
+- Datos del proyecto (plataforma): pegar la descripción nueva de `notas/descripcion-plataforma.md`.
